@@ -1,5 +1,3 @@
-//process.stdout.write('hello from spinner1.js ... \rheeyy\n');
-
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
